@@ -20,7 +20,7 @@
 
 
 ## 通过
-![alt text](pass_-1.png)
+![alt text](pass_.png)
 
 - CMake根据cmake的配置脚本CMakeLists.txt，执行cmake，接着输出Makefile.于是，CMake生成了构建脚本。
 - make读取Makefile,按照其中的依赖关系，调用gcc等编译器运行命令去编译、链接，得到可执行程序。
